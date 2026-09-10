@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
