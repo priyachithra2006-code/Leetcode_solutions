@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 ## Newton's Method
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
