@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 ## Newton's Method
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
