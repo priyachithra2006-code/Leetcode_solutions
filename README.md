@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0682-baseball-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
