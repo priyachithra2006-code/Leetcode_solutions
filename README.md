@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
 |  |
 | ------- |
