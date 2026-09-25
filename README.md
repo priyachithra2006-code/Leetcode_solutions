@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
