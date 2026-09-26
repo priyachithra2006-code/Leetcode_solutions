@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
