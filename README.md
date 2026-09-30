@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0290-word-pattern) |
+| [0696-count-binary-substrings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
