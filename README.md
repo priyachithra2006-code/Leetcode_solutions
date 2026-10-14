@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2129-capitalize-the-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2129-capitalize-the-title) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
