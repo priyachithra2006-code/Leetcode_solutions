@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
