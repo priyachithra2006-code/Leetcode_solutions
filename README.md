@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0290-word-pattern) |
+| [0500-keyboard-row](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0771-jewels-and-stones) |
