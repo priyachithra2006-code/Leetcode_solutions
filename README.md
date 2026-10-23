@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0198-house-robber) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
