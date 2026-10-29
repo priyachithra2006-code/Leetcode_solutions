@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
