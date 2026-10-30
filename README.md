@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1002-find-common-characters) |
+| [2325-decode-the-message](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2129-capitalize-the-title) |
+| [2325-decode-the-message](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2325-decode-the-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
