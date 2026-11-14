@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1002-find-common-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
