@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1002-find-common-characters) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [1154-day-of-the-year](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1154-day-of-the-year) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0198-house-robber) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String Matching
 |  |
 | ------- |
