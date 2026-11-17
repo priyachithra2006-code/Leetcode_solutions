@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0198-house-robber) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/priyachithra2006-code/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
